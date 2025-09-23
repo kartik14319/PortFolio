@@ -88,14 +88,7 @@ const Navbar = () => {
             <FaLinkedin size={25} />
           </a>
 
-           <a
-            href="https://whatsapp.com/dl/"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-gray-300 hover:text-[#8245ec]"
-          >
-            <FaWhatsappSquare size={25} />
-          </a>
+
 
            <a
             href="https://www.instagram.com/_kartik_14319/"
@@ -166,14 +159,7 @@ const Navbar = () => {
               >
                 <FaGithub size={25} />
               </a>
-               <a
-                href="https://whatsapp.com/dl/"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-gray-300 hover:text-white"
-              >
-                <FaWhatsappSquare size={25} />
-              </a>
+              
                <a
                 href="https://www.instagram.com/_kartik_14319/"
                 target="_blank"
